@@ -1,4 +1,7 @@
-# 👋 I'm D-ashLight | AIxHCI Builder & Vibe Coder
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%21+%F0%9F%91%8B+I%27m+Lux+Peng;AIxHCI+Builder+%26+Vibe+Coder;Building+Bridges+with+AI" />
+</p>
+
 
 ### 🤖 Prompting Ideas into Reality
 I don't just write code; I orchestrate AI to build meaningful experiences. As a **Vibe Coder**, I leverage the power of LLMs and AI design tools to bridge the gap between human empathy and digital interaction.
