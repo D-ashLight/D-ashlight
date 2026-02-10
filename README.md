@@ -31,7 +31,8 @@ I don't just write code; I orchestrate AI to build meaningful experiences. As a 
 ---
 
 ## 📈 My Growth
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D-ashLight&show_icons=true&theme=tokyonight)
+![D-ashLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-ashLight&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-ashLight&layout=compact&theme=tokyonight)
 
 ---
 
